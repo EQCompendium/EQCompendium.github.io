@@ -1,0 +1,63 @@
+---
+title: "Kory Illenye - Home"
+output: html_document
+---
+
+<style type="text/css">
+.title {
+  display: none;
+}
+
+#getting-started img {
+  margin-right: 10px;
+}
+</style>
+
+<figure>
+<div class="row-sm-6">
+### **KORY ILLENYE**
+</div>
+
+<img src="./images/illenyekd.jpg" alt="Kory" align="left" hspace="20">
+</figure>
+
+<div class="row-sm-6">
+
+### **Contact Information:**
+Office: Walker Hall, RM 307A <br>
+Phone: (828) 655-0464 <br>
+Email: [illenyekd@gmail.com](mailto:illenyekd@gmail.com)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [kdillenye98@go.mcdowelltech.edu](kdillenye98@go.mcdowelltech.edu)
+
+</div>
+<br><br><br><br>
+<div class="row-sm-6">
+
+### **Summer I & II 2018**
+
+This summer I am teaching 2 sections of MATH 171 - Precalculus are McDowell Technical Community College while working as a graduate research assistant for Appalachian State University. You can find me at the above information through out the summer.
+
+Also this summer I will be participating in Camp Opportunity for the third time. If you would like more information about this summer program send me an E-mail. 
+
+
+### **Fall 2018**
+Currently searching for positions in the Fall. 
+
+
+
+
+
+</div>
+
+<footer, style="padding-top : 40px;">
+<center>
+
+-------
+
+
+
+
+
+</center>
+</footer>
+

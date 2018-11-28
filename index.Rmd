@@ -1,5 +1,5 @@
 ---
-title: "Kory Illenye - Home"
+title: "EverQuest Compendium - Home"
 output: html_document
 ---
 
@@ -13,41 +13,23 @@ output: html_document
 }
 </style>
 
+<center
 <figure>
-<div class="row-sm-6">
-### **KORY ILLENYE**
-</div>
+<img src="./images/eq_logo_clear.png" alt="Everquest" align="center" hspace="20">
+<br>
+<br>
 
-<img src="./images/illenyekd.jpg" alt="Kory" align="left" hspace="20">
 </figure>
+</center>
+
 
 <div class="row-sm-6">
 
-### **Contact Information:**
-Office: Walker Hall, RM 307A <br>
-Phone: (828) 655-0464 <br>
-Email: [illenyekd@gmail.com](mailto:illenyekd@gmail.com)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [kdillenye98@go.mcdowelltech.edu](kdillenye98@go.mcdowelltech.edu)
+Recently I decided to come back to everquest and was surprised to see that [allakhazam](http://everquest.allakhazam.com/), [Magelo](https://eq.magelo.com/), and [EQ Traders](http://www.eqtraders.com/) were still active and some what helpful. My issue was the all of them have become very profit based. I am having issues with finding information that I need for spells and locations. I was getting very frustrated. After talking with a friend he mentioned pantheon. I will be moving over to pantheon as well, but our major issue is these sites seem to have very long load times or lack necessary information. I am not going to say that this site will be all inclusive. I designing it with progression servers in mind. I will also accept critiques and updates to critical information via email. Yes there will be a donations link if you like the site and want to reward me for my work that would be kind. It is not necessary but will always be appreciated. I will start with spells, then work my way into bestiary. This is not an easy task.
 
 </div>
 <br><br><br><br>
-<div class="row-sm-6">
 
-### **Summer I & II 2018**
-
-This summer I am teaching 2 sections of MATH 171 - Precalculus are McDowell Technical Community College while working as a graduate research assistant for Appalachian State University. You can find me at the above information through out the summer.
-
-Also this summer I will be participating in Camp Opportunity for the third time. If you would like more information about this summer program send me an E-mail. 
-
-
-### **Fall 2018**
-Currently searching for positions in the Fall. 
-
-
-
-
-
-</div>
 
 <footer, style="padding-top : 40px;">
 <center>

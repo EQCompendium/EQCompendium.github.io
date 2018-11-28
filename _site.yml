@@ -40,18 +40,6 @@ navbar:
     - text: Wizard
       href: "./class/wizard/wizard.html"
       
-  - text: Resources
-    menu:
-    - text: MAT 171
-      href: MAT171Resources.html
-  - text: Contact
-    href: Contact.html
-  - text: Schools
-    menu:
-    - text: Appalachian State University - Department of Mathematical Sciences
-      href: http://mathsci.appstate.edu
-    - text: Mcdowell Technical Community College
-      href: https://www.mcdowelltech.edu/
 rmd_subdir: yes
 output:
   html_document:

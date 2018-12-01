@@ -8,37 +8,37 @@ navbar:
   - text: Spells
     menu:
     - text: Bard
-      href: "./class/bard/bard.html"
+      href: https://EQCompendium.github.io/class/bard/bard.html
     - text: Beastlord
-      href: "./class/BL/BL.html"
+      href: https://EQCompendium.github.io/class/BL/BL.html
     - text: Beserker
-      href: "./class/beserker/beserker.html"
+      href: https://EQCompendium.github.io/class/beserker/beserker.html
     - text: Cleric
-      href: "./class/cleric/cleric.html"
+      href: https://EQCompendium.github.io/class/cleric/cleric.html
     - text: Druid
-      href: "./class/druid/druid.html"
+      href: https://EQCompendium.github.io/class/druid/druid.html
     - text: Enchanter
-      href: "./class/enchanter/enchanter.html"
+      href: https://EQCompendium.github.io/class/enchanter/enchanter.html
     - text: Magician
-      href: "./class/magician/magician.html"
+      href: https://EQCompendium.github.io/class/magician/magician.html
     - text: Monk
-      href: "./class/monk/monk.html"
+      href: https://EQCompendium.github.io/class/monk/monk.html
     - text: Necromancer
-      href: "./class/necromancer/necromancer.html"
+      href: https://EQCompendium.github.io/class/necromancer/necromancer.html
     - text: Paladin
-      href: "./class/paladin/paladin.html"  
+      href: https://EQCompendium.github.io/class/paladin/paladin.html
     - text: Ranger
-      href: "./class/ranger/ranger.html"
+      href: https://EQCompendium.github.io/class/ranger/ranger.html
     - text: Rogue
-      href: "./class/rogue/rogue.html"
+      href: https://EQCompendium.github.io/class/rogue/rogue.html
     - text: Shadow Knight
-      href: "./class/SK/SK.html"
+      href: https://EQCompendium.github.io/class/SK/SK.html
     - text: Shaman
-      href: "./class/shaman/shaman.html"
+      href: https://EQCompendium.github.io/class/shaman/shaman.html
     - text: Warrior
-      href: "./class/warrior/warrior.html"
+      href: https://EQCompendium.github.io/class/warrior/warrior.html
     - text: Wizard
-      href: "./class/wizard/wizard.html"
+      href: https://EQCompendium.github.io/class/wizard/wizard.html
  
 rmd_subdir: yes
 output:
